@@ -1,9 +1,9 @@
 {
   "name": "one-or-more",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library definint Typescript types representing 0-or-more or 1-or-more items.",
   "main": "./dist/index.js",
-  "types": "./dist/indes.d.ts",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
