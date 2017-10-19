@@ -1,0 +1,28 @@
+{
+  "name": "one-or-more",
+  "version": "1.0.1",
+  "description": "A library definint Typescript types representing 0-or-more or 1-or-more items.",
+  "main": "./dist/index.js",
+  "types": "./dist/indes.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonPenton/one-or-more.git"
+  },
+  "keywords": [
+    "one",
+    "more",
+    "typescript"
+  ],
+  "author": "Ron Penton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonPenton/one-or-more/issues"
+  },
+  "homepage": "https://github.com/RonPenton/one-or-more#readme",
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
